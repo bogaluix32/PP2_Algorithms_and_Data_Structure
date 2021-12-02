@@ -1,2 +1,3 @@
-# PP2_Algoritmos_y_Estructuras_de_Datos
-Segundo proyecto programado del curso Algoritmos y Estructuras de Datos. ATIWORKS es un pequeño software que simula a pequeña escala el funcionamiento de Microsoft Teams para el manejo de actividades en equipo dentro de una organización.
+# PP2_Algorithms_and_Data_Structure
+Hello world!
+Second project of the Algorithms and Data Structures course. ARTWORKS is a small software that simulates on a small scale the operation of Microsoft Teams for managing team activities inside an organization.
